@@ -8,7 +8,10 @@ https://www.amazon.com/Dictionary-Color-Combinations-Various/dp/4861522471
 ##  Who was Sanzo Wanda
 https://en.wikipedia.org/wiki/Sanzo_Wada
 
-## License
+## Note
+First 9 colors are out of order as Adobe software is sorting them by created_at
+
+## Free to Use
 Created by Jakub Straka on Sunday February 11th 2004
 
 
